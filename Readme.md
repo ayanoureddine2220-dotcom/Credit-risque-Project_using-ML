@@ -1,14 +1,3 @@
-D’accord — je t’ai converti **tout le PDF en Markdown propre**, sans changer le contenu.
-Voici le résultat (compact, bien structuré, et directement copiable dans GitHub ou Notion).
-
----
-
-# ✅ **Version Markdown du PDF**
-
-Source : 
-
----
-
 # **Credit Risk – Projet**
 
 ## 1. Introduction
@@ -196,28 +185,3 @@ Dans le scoring crédit :
   > Manque à gagner seulement.
 
 Le modèle RF minimise bien les faux positifs → bon modèle pour une banque.
-
----
-
-## 📌 Table des matières (auto du PDF)
-
-* Introduction
-* Objectifs
-* Dataset
-* Types de données
-* Pré-traitement
-* Exploration
-* Visualisations
-* Modèles IA
-* Interprétations et contexte FinTech
-
----
-
-Si tu veux, je peux aussi :
-✅ Te générer une **version Markdown stylée** (avec couleurs, badges, sections collapsible)
-✅ Transformer ce document en **README GitHub complet**
-✅ Te faire une **présentation PowerPoint** basée sur ce contenu
-✅ Ou résumer en 1 page professionnelle.
-
-Tu veux quelle version ?
-
